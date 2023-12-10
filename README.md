@@ -1,0 +1,13 @@
+# Command-line-interpreter that executes the following commands: 
+-pwd
+-cd
+-rm
+-rmdir
+-mkdir
+-echo
+-ls
+-touch
+-cat
+-wc
+-history
+-cp
